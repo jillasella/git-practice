@@ -2,7 +2,7 @@
 
 [Jill Cirasella](http://jillcirasella.commons.gc.cuny.edu)\
 [Mina Rees Library](http://library.gc.cuny.edu)\
-[The Graduate Center, CUNY](http://gc.cuny.edu)
+[The Graduate Center, CUNY](http://www.gc.cuny.edu)
 
 ## What Are Fake Journals?
 
@@ -21,3 +21,11 @@ They attract authors by spamming them with fawning emails.
 A **fake conference** is a blah blah blah blah.
 
 They operate in much the same way as fake journals.
+
+## Let's Play *I Spy*
+
+Which of these journals is fake?
+
+- one
+- another
+- yet another
